@@ -1,0 +1,1006 @@
+{
+  "output": "generated/",
+  "chain": "mainnet",
+  "datasources": [
+    {
+      "address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+      "module": ["erc20"],
+      "startBlock": 3978343
+    },
+    {
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "module": ["erc20"],
+      "startBlock": 4634748
+    },
+    {
+      "address": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
+      "module": ["erc20"],
+      "startBlock": 9041184
+    },
+    {
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "module": ["erc20"],
+      "startBlock": 6082465
+    },
+    {
+      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+      "module": ["erc20"],
+      "startBlock": 10861674
+    },
+    {
+      "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+      "module": ["erc20"],
+      "startBlock": 4281611
+    },
+    {
+      "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+      "module": ["erc20"],
+      "startBlock": 8493105
+    },
+    {
+      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "module": ["erc20"],
+      "startBlock": 6766284
+    },
+    {
+      "address": "0xD850942eF8811f2A866692A623011bDE52a462C1",
+      "module": ["erc20"],
+      "startBlock": 4159827
+    },
+    {
+      "address": "0x6e1A19F235bE7ED8E3369eF73b196C07257494DE",
+      "module": ["erc20"],
+      "startBlock": 11179306
+    },
+    {
+      "address": "0x3883f5e181fccaF8410FA61e12b59BAd963fb645",
+      "module": ["erc20"],
+      "startBlock": 4728491
+    },
+    {
+      "address": "0xE1Be5D3f34e89dE342Ee97E6e90D405884dA6c67",
+      "module": ["erc20"],
+      "startBlock": 12348841
+    },
+    {
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "module": ["erc20"],
+      "startBlock": 8928158
+    },
+    {
+      "address": "0x75231F58b43240C9718Dd58B4967c5114342a86c",
+      "module": ["erc20"],
+      "startBlock": 7641712
+    },
+    {
+      "address": "0xc944E90C64B2c07662A292be6244BDf05Cda44a7",
+      "module": ["erc20"],
+      "startBlock": 11446769
+    },
+    {
+      "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+      "module": ["erc20"],
+      "startBlock": 11473216
+    },
+    {
+      "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+      "module": ["erc20"],
+      "startBlock": 11888477
+    },
+    {
+      "address": "0xA0b73E1Ff0B80914AB6fe0444E65848C4C34450b",
+      "module": ["erc20"],
+      "startBlock": 6702068
+    },
+    {
+      "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+      "module": ["erc20"],
+      "startBlock": 4620855
+    },
+    {
+      "address": "0xE83CCCfABD4eD148903Bf36d4283eE7C8b3494D1",
+      "module": ["erc20"],
+      "startBlock": 12295499
+    },
+    {
+      "address": "0x2AF5D2aD76741191D15Dfe7bF6aC92d4Bd912Ca3",
+      "module": ["erc20"],
+      "startBlock": 7803477
+    },
+    {
+      "address": "0xfF20817765cB7f73d4bde2e66e067E58D11095C2",
+      "module": ["erc20"],
+      "startBlock": 10635417
+    },
+    {
+      "address": "0x6f259637dcD74C767781E37Bc6133cd6A68aa161",
+      "module": ["erc20"],
+      "startBlock": 5005233
+    },
+    {
+      "address": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+      "module": ["erc20"],
+      "startBlock": 10736094
+    },
+    {
+      "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
+      "module": ["erc20"],
+      "startBlock": 9601359
+    },
+    {
+      "address": "0x4a220E6096B25EADb88358cb44068A3248254675",
+      "module": ["erc20"],
+      "startBlock": 5392950
+    },
+    {
+      "address": "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD",
+      "module": ["erc20"],
+      "startBlock": 11345219
+    },
+    {
+      "address": "0xaaAEBE6Fe48E54f431b0C390CfaF0b017d09D42d",
+      "module": ["erc20"],
+      "startBlock": 5409020
+    },
+    {
+      "address": "0x4E15361FD6b4BB609Fa63C81A2be19d873717870",
+      "module": ["erc20"],
+      "startBlock": 5787425
+    },
+    {
+      "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+      "module": ["erc20"],
+      "startBlock": 8314597
+    },
+    {
+      "address": "0x3506424F91fD33084466F402d5D97f05F8e3b4AF",
+      "module": ["erc20"],
+      "startBlock": 6585593
+    },
+    {
+      "address": "0x6c6EE5e31d828De241282B9606C8e98Ea48526E2",
+      "module": ["erc20"],
+      "startBlock": 5008746
+    },
+    {
+      "address": "0x0316EB71485b0Ab14103307bf65a021042c6d380",
+      "module": ["erc20"],
+      "startBlock": 9076087
+    },
+    {
+      "address": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c",
+      "module": ["erc20"],
+      "startBlock": 4329040
+    },
+    {
+      "address": "0x41AB1b6fcbB2fA9DCEd81aCbdeC13Ea6315F2Bf2",
+      "module": ["erc20"],
+      "startBlock": 4975471
+    },
+    {
+      "address": "0xE452E6Ea2dDeB012e20dB73bf5d3863A3Ac8d77a",
+      "module": ["erc20"],
+      "startBlock": 11459351
+    },
+    {
+      "address": "0x16631e53C20Fd2670027C6D53EfE2642929b285C",
+      "module": ["erc20"],
+      "startBlock": 12729338
+    },
+    {
+      "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+      "module": ["erc20"],
+      "startBlock": 10475744
+    },
+    {
+      "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
+      "module": ["erc20"],
+      "startBlock": 6988184
+    },
+    {
+      "address": "0x467Bccd9d29f223BcE8043b84E8C8B282827790F",
+      "module": ["erc20"],
+      "startBlock": 9369177
+    },
+    {
+      "address": "0x05f4a42e251f2d52b8ed15E9FEdAacFcEF1FAD27",
+      "module": ["erc20"],
+      "startBlock": 4895439
+    },
+    {
+      "address": "0x3103dF8F05c4D8aF16fD22AE63E406b97FeC6938",
+      "module": ["erc20"],
+      "startBlock": 11305412
+    },
+    {
+      "address": "0xFd09Cf7cFffa9932e33668311C4777Cb9db3c9Be",
+      "module": ["erc20"],
+      "startBlock": 9351139
+    },
+    {
+      "address": "0x799a4202c12ca952cB311598a024C80eD371a41e",
+      "module": ["erc20"],
+      "startBlock": 8493130
+    },
+    {
+      "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+      "module": ["erc20"],
+      "startBlock": 3788558
+    },
+    {
+      "address": "0xf34960d9d60be18cC1D5Afc1A6F012A723a28811",
+      "module": ["erc20"],
+      "startBlock": 11638804
+    },
+    {
+      "address": "0xB62132e35a6c13ee1EE0f84dC5d40bad8d815206",
+      "module": ["erc20"],
+      "startBlock": 5475683
+    },
+    {
+      "address": "0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C",
+      "module": ["erc20"],
+      "startBlock": 3851136
+    },
+    {
+      "address": "0xd7c49CEE7E9188cCa6AD8FF264C1DA2e69D4Cf3B",
+      "module": ["erc20"],
+      "startBlock": 7815779
+    },
+    {
+      "address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
+      "module": ["erc20"],
+      "startBlock": 6294931
+    },
+    {
+      "address": "0xfd1e80508F243E64CE234eA88A5Fd2827c71D4b7",
+      "module": ["erc20"],
+      "startBlock": 5689430
+    },
+    {
+      "address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+      "module": ["erc20"],
+      "startBlock": 3978297
+    },
+    {
+      "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+      "module": ["erc20"],
+      "startBlock": 4145415
+    },
+    {
+      "address": "0x8dAE6Cb04688C62d939ed9B68d32Bc62e49970b1",
+      "module": ["erc20"],
+      "startBlock": 11538358
+    },
+    {
+      "address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+      "module": ["erc20"],
+      "startBlock": 8835135
+    },
+    {
+      "address": "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828",
+      "module": ["erc20"],
+      "startBlock": 9247089
+    },
+    {
+      "address": "0xba9d4199faB4f26eFE3551D490E3821486f135Ba",
+      "module": ["erc20"],
+      "startBlock": 4470432
+    },
+    {
+      "address": "0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D",
+      "module": ["erc20"],
+      "startBlock": 9736969
+    },
+    {
+      "address": "0xFA1a856Cfa3409CFa145Fa4e20Eb270dF3EB21ab",
+      "module": ["erc20"],
+      "startBlock": 4888399
+    },
+    {
+      "address": "0x6fB3e0A217407EFFf7Ca062D46c26E5d60a14d69",
+      "module": ["erc20"],
+      "startBlock": 5652745
+    },
+    {
+      "address": "0x8CE9137d39326AD0cD6491fb5CC0CbA0e089b6A9",
+      "module": ["erc20"],
+      "startBlock": 8363030
+    },
+    {
+      "address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
+      "module": ["erc20"],
+      "startBlock": 7544036
+    },
+    {
+      "address": "0x39Bb259F66E1C59d5ABEF88375979b4D20D98022",
+      "module": ["erc20"],
+      "startBlock": 4761555
+    },
+    {
+      "address": "0x3597bfD533a99c9aa083587B074434E61Eb0A258",
+      "module": ["erc20"],
+      "startBlock": 4010949
+    },
+    {
+      "address": "0x111111111117dC0aa78b770fA6A738034120C302",
+      "module": ["erc20"],
+      "startBlock": 11511393
+    },
+    {
+      "address": "0xa1faa113cbE53436Df28FF0aEe54275c13B40975",
+      "module": ["erc20"],
+      "startBlock": 10943736
+    },
+    {
+      "address": "0x8400D94A5cb0fa0D041a3788e395285d61c9ee5e",
+      "module": ["erc20"],
+      "startBlock": 4892029
+    },
+    {
+      "address": "0x7DD9c5Cba05E151C895FDe1CF355C9A1D5DA6429",
+      "module": ["erc20"],
+      "startBlock": 11281056
+    },
+    {
+      "address": "0x58b6A8A3302369DAEc383334672404Ee733aB239",
+      "module": ["erc20"],
+      "startBlock": 5533907
+    },
+    {
+      "address": "0xaea46A60368A7bD060eec7DF8CBa43b7EF41Ad85",
+      "module": ["erc20"],
+      "startBlock": 10998076
+    },
+    {
+      "address": "0x0FD10b9899882a6f2fcb5c371E17e70FdEe00C38",
+      "module": ["erc20"],
+      "startBlock": 11995547
+    },
+    {
+      "address": "0xdF574c24545E5FfEcb9a659c229253D4111d87e1",
+      "module": ["erc20"],
+      "startBlock": 8174400
+    },
+    {
+      "address": "0x6810e776880C02933D47DB1b9fc05908e5386b96",
+      "module": ["erc20"],
+      "startBlock": 3557596
+    },
+    {
+      "address": "0x476c5E26a75bd202a9683ffD34359C0CC15be0fF",
+      "module": ["erc20"],
+      "startBlock": 10570346
+    },
+    {
+      "address": "0xe28b3B32B6c345A34Ff64674606124Dd5Aceca30",
+      "module": ["erc20"],
+      "startBlock": 11072329
+    },
+    {
+      "address": "0x956F47F50A910163D8BF957Cf5846D573E7f87CA",
+      "module": ["erc20"],
+      "startBlock": 12125705
+    },
+    {
+      "address": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
+      "module": ["erc20"],
+      "startBlock": 6436154
+    },
+    {
+      "address": "0x967da4048cD07aB37855c090aAF366e4ce1b9F48",
+      "module": ["erc20"],
+      "startBlock": 10945544
+    },
+    {
+      "address": "0x4691937a7508860F876c9c0a2a617E7d9E945D4B",
+      "module": ["erc20"],
+      "startBlock": 11067236
+    },
+    {
+      "address": "0x744d70FDBE2Ba4CF95131626614a1763DF805B9E",
+      "module": ["erc20"],
+      "startBlock": 3898960
+    },
+    {
+      "address": "0x69af81e73A73B40adF4f3d4223Cd9b1ECE623074",
+      "module": ["erc20"],
+      "startBlock": 11886238
+    },
+    {
+      "address": "0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B",
+      "module": ["erc20"],
+      "startBlock": 12125705
+    },
+    {
+      "address": "0x0c7D5ae016f806603CB1782bEa29AC69471CAb9c",
+      "module": ["erc20"],
+      "startBlock": 10152914
+    },
+    {
+      "address": "0x178c820f862B14f316509ec36b13123DA19A6054",
+      "module": ["erc20"],
+      "startBlock": 9817823
+    },
+    {
+      "address": "0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55",
+      "module": ["erc20"],
+      "startBlock": 8514296
+    },
+    {
+      "address": "0x607F4C5BB672230e8672085532f7e901544a7375",
+      "module": ["erc20"],
+      "startBlock": 3557261
+    },
+    {
+      "address": "0xba100000625a3754423978a60c9317c58a424e3D",
+      "module": ["erc20"],
+      "startBlock": 10299683
+    },
+    {
+      "address": "0x767FE9EDC9E0dF98E07454847909b5E959D7ca0E",
+      "module": ["erc20"],
+      "startBlock": 12084124
+    },
+    {
+      "address": "0xAC51066d7bEC65Dc4589368da368b212745d63E8",
+      "module": ["erc20"],
+      "startBlock": 11958870
+    },
+    {
+      "address": "0x5Cf04716BA20127F1E2297AdDCf4B5035000c9eb",
+      "module": ["erc20"],
+      "startBlock": 6973737
+    },
+    {
+      "address": "0x45804880De22913dAFE09f4980848ECE6EcbAf78",
+      "module": ["erc20"],
+      "startBlock": 8426430
+    },
+    {
+      "address": "0xbE9375C6a420D2eEB258962efB95551A5b722803",
+      "module": ["erc20"],
+      "startBlock": 10046294
+    },
+    {
+      "address": "0x9992eC3cF6A55b00978cdDF2b27BC6882d88D1eC",
+      "module": ["erc20"],
+      "startBlock": 4994844
+    },
+    {
+      "address": "0x221657776846890989a759BA2973e427DfF5C9bB",
+      "module": ["erc20"],
+      "startBlock": 10544033
+    },
+    {
+      "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+      "module": ["erc20"],
+      "startBlock": 11465581
+    },
+    {
+      "address": "0xfc82bb4ba86045Af6F327323a46E80412b91b27d",
+      "module": ["erc20"],
+      "startBlock": 7789253
+    },
+    {
+      "address": "0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b",
+      "module": ["erc20"],
+      "startBlock": 3988945
+    },
+    {
+      "address": "0xB4EFd85c19999D84251304bDA99E90B92300Bd93",
+      "module": ["erc20"],
+      "startBlock": 3988945
+    },
+    {
+      "address": "0x4F9254C83EB525f9FCf346490bbb3ed28a81C667",
+      "module": ["erc20"],
+      "startBlock": 7107317
+    },
+    {
+      "address": "0x43Dfc4159D86F3A37A5A4B3D4580b888ad7d4DDd",
+      "module": ["erc20"],
+      "startBlock": 10956992
+    },
+    {
+      "address": "0xcca0c9c383076649604eE31b20248BC04FdF61cA",
+      "module": ["erc20"],
+      "startBlock": 10132762
+    },
+    {
+      "address": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
+      "module": ["erc20"],
+      "startBlock": 8621971
+    },
+    {
+      "address": "0x580c8520dEDA0a441522AEAe0f9F7A5f29629aFa",
+      "module": ["erc20"],
+      "startBlock": 9976279
+    },
+    {
+      "address": "0xF433089366899D83a9f26A773D59ec7eCF30355e",
+      "module": ["erc20"],
+      "startBlock": 3947745
+    },
+    {
+      "address": "0xff56Cc6b1E6dEd347aA0B7676C85AB0B3D08B0FA",
+      "module": ["erc20"],
+      "startBlock": 5710114
+    },
+    {
+      "address": "0x1776e1F26f98b1A5dF9cD347953a26dd3Cb46671",
+      "module": ["erc20"],
+      "startBlock": 3902326
+    },
+    {
+      "address": "0x8A2279d4A90B6fe1C4B30fa660cC9f926797bAA2",
+      "module": ["erc20"],
+      "startBlock": 10988298
+    },
+    {
+      "address": "0x4C19596f5aAfF459fA38B0f7eD92F11AE6543784",
+      "module": ["erc20"],
+      "startBlock": 10188190
+    },
+    {
+      "address": "0xCC8Fa225D80b9c7D42F96e9570156c65D6cAAa25",
+      "module": ["erc20"],
+      "startBlock": 12314545
+    },
+    {
+      "address": "0xA2120b9e674d3fC3875f415A7DF52e382F141225",
+      "module": ["erc20"],
+      "startBlock": 12538085
+    },
+    {
+      "address": "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb",
+      "module": ["erc20"],
+      "startBlock": 9045597
+    },
+    {
+      "address": "0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC",
+      "module": ["erc20"],
+      "startBlock": 9958363
+    },
+    {
+      "address": "0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e",
+      "module": ["erc20"],
+      "startBlock": 4753621
+    },
+    {
+      "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
+      "module": ["erc20"],
+      "startBlock": 11465584
+    },
+    {
+      "address": "0x6c28AeF8977c9B773996d0e8376d2EE379446F2f",
+      "module": ["erc20"],
+      "startBlock": 11016044
+    },
+    {
+      "address": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
+      "module": ["erc20"],
+      "startBlock": 11473216
+    },
+    {
+      "address": "0xB64ef51C888972c908CFacf59B47C1AfBC0Ab8aC",
+      "module": ["erc20"],
+      "startBlock": 3898942
+    },
+    {
+      "address": "0x80fB784B7eD66730e8b1DBd9820aFD29931aab03",
+      "module": ["erc20"],
+      "startBlock": 4285018
+    },
+    {
+      "address": "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd",
+      "module": ["erc20"],
+      "startBlock": 6301780
+    },
+    {
+      "address": "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202",
+      "module": ["erc20"],
+      "startBlock": 12224343
+    },
+    {
+      "address": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e",
+      "module": ["erc20"],
+      "startBlock": 11060110
+    },
+    {
+      "address": "0x5B7533812759B45C2B44C19e320ba2cD2681b542",
+      "module": ["erc20"],
+      "startBlock": 12326815
+    },
+    {
+      "address": "0xdd974D5C2e2928deA5F71b9825b8b646686BD200",
+      "module": ["erc20"],
+      "startBlock": 4264898
+    },
+    {
+      "address": "0x8f8221aFbB33998d8584A2B05749bA73c37a938a",
+      "module": ["erc20"],
+      "startBlock": 4345153
+    },
+    {
+      "address": "0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F",
+      "module": ["erc20"],
+      "startBlock": 12422079
+    },
+    {
+      "address": "0xE95A203B1a91a908F9B9CE46459d101078c2c3cb",
+      "module": ["erc20"],
+      "startBlock": 11225111
+    },
+    {
+      "address": "0x8806926Ab68EB5a7b909DcAf6FdBe5d93271D6e2",
+      "module": ["erc20"],
+      "startBlock": 10982432
+    },
+    {
+      "address": "0x818Fc6C2Ec5986bc6E2CBf00939d90556aB12ce5",
+      "module": ["erc20"],
+      "startBlock": 4261393
+    },
+    {
+      "address": "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
+      "module": ["erc20"],
+      "startBlock": 7130380
+    },
+    {
+      "address": "0x26E75307Fc0C021472fEb8F727839531F112f317",
+      "module": ["erc20"],
+      "startBlock": 4363332
+    },
+    {
+      "address": "0xD417144312DbF50465b1C641d016962017Ef6240",
+      "module": ["erc20"],
+      "startBlock": 12474448
+    },
+    {
+      "address": "0x77FbA179C79De5B7653F68b5039Af940AdA60ce0",
+      "module": ["erc20"],
+      "startBlock": 12141775
+    },
+    {
+      "address": "0x389999216860AB8E0175387A0c90E5c52522C945",
+      "module": ["erc20"],
+      "startBlock": 11762222
+    },
+    {
+      "address": "0xB63B606Ac810a52cCa15e44bB630fd42D8d1d83d",
+      "module": ["erc20"],
+      "startBlock": 3933409
+    },
+    {
+      "address": "0xD291E7a03283640FDc51b121aC401383A46cC623",
+      "module": ["erc20"],
+      "startBlock": 11094181
+    },
+    {
+      "address": "0xEA26c4aC16D4a5A106820BC8AEE85fd0b7b2b664",
+      "module": ["erc20"],
+      "startBlock": 5718081
+    },
+    {
+      "address": "0x595832F8FC6BF59c85C527fEC3740A1b7a361269",
+      "module": ["erc20"],
+      "startBlock": 3811884
+    },
+    {
+      "address": "0xb59490aB09A0f526Cc7305822aC65f2Ab12f9723",
+      "module": ["erc20"],
+      "startBlock": 11718562
+    },
+    {
+      "address": "0xaA7a9CA87d3694B5755f213B5D04094b8d0F0A6F",
+      "module": ["erc20"],
+      "startBlock": 4961540
+    },
+    {
+      "address": "0x0d438F3b5175Bebc262bF23753C1E53d03432bDE",
+      "module": ["erc20"],
+      "startBlock": 10383026
+    },
+    {
+      "address": "0x5228a22e72ccC52d415EcFd199F99D0665E7733b",
+      "module": ["erc20"],
+      "startBlock": 9604186
+    },
+    {
+      "address": "0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF",
+      "module": ["erc20"],
+      "startBlock": 10457021
+    },
+    {
+      "address": "0x55296f69f40Ea6d20E478533C15A6B08B654E758",
+      "module": ["erc20"],
+      "startBlock": 4862225
+    },
+    {
+      "address": "0xDF2C7238198Ad8B389666574f2d8bc411A4b7428",
+      "module": ["erc20"],
+      "startBlock": 5904665
+    },
+    {
+      "address": "0x56d811088235F11C8920698a204A5010a788f4b3",
+      "module": ["erc20"],
+      "startBlock": 10441143
+    },
+    {
+      "address": "0x0391D2021f89DC339F60Fff84546EA23E337750f",
+      "module": ["erc20"],
+      "startBlock": 10815462
+    },
+    {
+      "address": "0xEE06A81a695750E71a662B51066F2c74CF4478a0",
+      "module": ["erc20"],
+      "startBlock": 11334105
+    },
+    {
+      "address": "0xcB97e65F07DA24D46BcDD078EBebd7C6E6E3d750",
+      "module": ["erc20"],
+      "startBlock": 4015876
+    },
+    {
+      "address": "0x13f11C9905A08ca76e3e853bE63D4f0944326C72",
+      "module": ["erc20"],
+      "startBlock": 4265107
+    },
+    {
+      "address": "0x88dF592F8eb5D7Bd38bFeF7dEb0fBc02cf3778a0",
+      "module": ["erc20"],
+      "startBlock": 11895800
+    },
+    {
+      "address": "0xdB25f211AB05b1c97D595516F45794528a807ad8",
+      "module": ["erc20"],
+      "startBlock": 5835251
+    },
+    {
+      "address": "0x5e3346444010135322268a4630d2ED5F8D09446c",
+      "module": ["erc20"],
+      "startBlock": 4303231
+    },
+    {
+      "address": "0x84cA8bc7997272c7CfB4D0Cd3D55cd942B3c9419",
+      "module": ["erc20"],
+      "startBlock": 9010514
+    },
+    {
+      "address": "0x115eC79F1de567eC68B7AE7eDA501b406626478e",
+      "module": ["erc20"],
+      "startBlock": 5844508
+    },
+    {
+      "address": "0x5218E472cFCFE0b64A064F055B43b4cdC9EfD3A6",
+      "module": ["erc20"],
+      "startBlock": 10908965
+    },
+    {
+      "address": "0x5Ca381bBfb58f0092df149bD3D243b08B9a8386e",
+      "module": ["erc20"],
+      "startBlock": 6111735
+    },
+    {
+      "address": "0x2F109021aFe75B949429fe30523Ee7C0D5B27207",
+      "module": ["erc20"],
+      "startBlock": 12114725
+    },
+    {
+      "address": "0xE5B826Ca2Ca02F09c1725e9bd98d9a8874C30532",
+      "module": ["erc20"],
+      "startBlock": 6520711
+    },
+    {
+      "address": "0x1955d744F9435522Be508D1Ba60E3c12D0690B6A",
+      "module": ["erc20"],
+      "startBlock": 10523277
+    },
+    {
+      "address": "0x584bC13c7D411c00c01A62e8019472dE68768430",
+      "module": ["erc20"],
+      "startBlock": 10619150
+    },
+    {
+      "address": "0x362bc847A3a9637d3af6624EeC853618a43ed7D2",
+      "module": ["erc20"],
+      "startBlock": 11011736
+    },
+    {
+      "address": "0x0a50C93c762fDD6E56D86215C24AaAD43aB629aa",
+      "module": ["erc20"],
+      "startBlock": 8124852
+    },
+    {
+      "address": "0x93ED3FBe21207Ec2E8f2d3c3de6e058Cb73Bc04d",
+      "module": ["erc20"],
+      "startBlock": 5257012
+    },
+    {
+      "address": "0xd4fa1460F537bb9085d22C7bcCB5DD450Ef28e3a",
+      "module": ["erc20"],
+      "startBlock": 4000506
+    },
+    {
+      "address": "0x1614F18Fc94f47967A3Fbe5FfcD46d4e7Da3D787",
+      "module": ["erc20"],
+      "startBlock": 12002538
+    },
+    {
+      "address": "0x8c15Ef5b4B21951d50E53E4fbdA8298FFAD25057",
+      "module": ["erc20"],
+      "startBlock": 6965508
+    },
+    {
+      "address": "0xfB7B4564402E5500dB5bB6d63Ae671302777C75a",
+      "module": ["erc20"],
+      "startBlock": 12755070
+    },
+    {
+      "address": "0x77777FeDdddFfC19Ff86DB637967013e6C6A116C",
+      "module": ["erc20"],
+      "startBlock": 11474599
+    },
+    {
+      "address": "0xDFe66B14D37C77F4E9b180cEb433d1b164f0281D",
+      "module": ["erc20"],
+      "startBlock": 11296329
+    },
+    {
+      "address": "0x5732046A883704404F284Ce41FfADd5b007FD668",
+      "module": ["erc20"],
+      "startBlock": 4911588
+    },
+    {
+      "address": "0x3593D125a4f7849a1B059E64F4517A86Dd60c95d",
+      "module": ["erc20"],
+      "startBlock": 11470888
+    },
+    {
+      "address": "0xDe7D85157d9714EADf595045CC12Ca4A5f3E2aDb",
+      "module": ["erc20"],
+      "startBlock": 7897819
+    },
+    {
+      "address": "0x8a854288a5976036A725879164Ca3e91d30c6A1B",
+      "module": ["erc20"],
+      "startBlock": 4362205
+    },
+    {
+      "address": "0xE5Dada80Aa6477e85d09747f2842f7993D0Df71C",
+      "module": ["erc20"],
+      "startBlock": 5127660
+    },
+    {
+      "address": "0xd0929d411954c47438dc1d871dd6081F5C5e149c",
+      "module": ["erc20"],
+      "startBlock": 4313345
+    },
+    {
+      "address": "0x0000000000095413afC295d19EDeb1Ad7B71c952",
+      "module": ["erc20"],
+      "startBlock": 11494389
+    },
+    {
+      "address": "0x7B0C06043468469967DBA22d1AF33d77d44056c8",
+      "module": ["erc20"],
+      "startBlock": 5838376
+    },
+    {
+      "address": "0x57B946008913B82E4dF85f501cbAeD910e58D26C",
+      "module": ["erc20"],
+      "startBlock": 11463091
+    },
+    {
+      "address": "0xCF3C8Be2e2C42331Da80EF210e9B1b307C03d36A",
+      "module": ["erc20"],
+      "startBlock": 10950415
+    },
+    {
+      "address": "0x168296bb09e24A88805CB9c33356536B980D3fC5",
+      "module": ["erc20"],
+      "startBlock": 3383352
+    },
+    {
+      "address": "0xC86D054809623432210c107af2e3F619DcFbf652",
+      "module": ["erc20"],
+      "startBlock": 5658889
+    },
+    {
+      "address": "0x1b40183EFB4Dd766f11bDa7A7c3AD8982e998421",
+      "module": ["erc20"],
+      "startBlock": 11835649
+    },
+    {
+      "address": "0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6",
+      "module": ["erc20"],
+      "startBlock": 10954411
+    },
+    {
+      "address": "0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359",
+      "module": ["erc20"],
+      "startBlock": 4752008
+    },
+    {
+      "address": "0xa2791BdF2D5055Cda4d46EC17f9F429568275047",
+      "module": ["erc20"],
+      "startBlock": 10909756
+    },
+    {
+      "address": "0x940a2dB1B7008B6C776d4faaCa729d6d4A4AA551",
+      "module": ["erc20"],
+      "startBlock": 6867115
+    },
+    {
+      "address": "0x0Ae055097C6d159879521C384F1D2123D1f195e6",
+      "module": ["erc20"],
+      "startBlock": 9877421
+    },
+    {
+      "address": "0xE0B7927c4aF23765Cb51314A0E0521A9645F0E2A",
+      "module": ["erc20"],
+      "startBlock": 1409121
+    },
+    {
+      "address": "0xb753428af26E81097e7fD17f40c88aaA3E04902c",
+      "module": ["erc20"],
+      "startBlock": 11163720
+    },
+    {
+      "address": "0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1",
+      "module": ["erc20"],
+      "startBlock": 11023444
+    },
+    {
+      "address": "0x37E1160184F7dD29f00b78C050Bf13224780b0B0",
+      "module": ["erc20"],
+      "startBlock": 5308009
+    },
+    {
+      "address": "0xa3d58c4E56fedCae3a7c43A725aeE9A71F0ece4e",
+      "module": ["erc20"],
+      "startBlock": 5659904
+    },
+    {
+      "address": "0x9B02dD390a603Add5c07f9fd9175b7DABE8D63B7",
+      "module": ["erc20"],
+      "startBlock": 11380571
+    },
+    {
+      "address": "0x96E61422b6A9bA0e068B6c5ADd4fFaBC6a4aae27",
+      "module": ["erc20"],
+      "startBlock": 12857615
+    },
+    {
+      "address": "0xad3E3Fc59dff318BecEaAb7D00EB4F68b1EcF195",
+      "module": ["erc20"],
+      "startBlock": 11459608
+    },
+    {
+      "address": "0xf8C3527CC04340b208C854E985240c02F7B7793f",
+      "module": ["erc20"],
+      "startBlock": 10841775
+    },
+    {
+      "address": "0xb683D83a532e2Cb7DFa5275eED3698436371cc9f",
+      "module": ["erc20"],
+      "startBlock": 5589237
+    },
+    {
+      "address": "0xb17C88bDA07D28B3838E0c1dE6a30eAfBCF52D85",
+      "module": ["erc20"],
+      "startBlock": 12730376
+    },
+    {
+      "address": "0x1796ae0b0fa4862485106a0de9b654eFE301D0b2",
+      "module": ["erc20"],
+      "startBlock": 12116821
+    },
+    {
+      "address": "0xEC213F83defB583af3A000B1c0ada660b1902A0F",
+      "module": ["erc20"],
+      "startBlock": 11070525
+    }
+  ]
+}
