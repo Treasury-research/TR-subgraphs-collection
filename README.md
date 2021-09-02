@@ -7,14 +7,16 @@
 ### mainnet
 
 ```
+yarn 
+yarn global add @graphprotocol/graph-cli
 npx graph-compiler \
   --config subgraphconfig.json \
   --include node_modules/@openzeppelin/subgraphs/src/datasources \
   --export-schema \
   --export-subgraph
+cd generated
 graph auth ...
-yarn build
-yarn deploy --studio xxx // xxx you create subgraph name
+graph deploy --studio  xxx // xxx you create subgraph name
 ```
 ### Query examples
 1. Total supply and biggest token holders

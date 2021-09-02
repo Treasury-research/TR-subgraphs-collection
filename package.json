@@ -5,10 +5,15 @@
   "deploy": "graph deploy",
   "license": "MIT",
   "dependencies": {
-    "@openzeppelin/subgraphs": "^0.1.2",
-    "@graphprotocol/graph-cli": "0.21.1"
+    "@graphprotocol/graph-cli": "0.21.1",
+    "@openzeppelin/subgraphs": "^0.1.2"
   },
   "devDependencies": {
     "cz-conventional-changelog": "3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
