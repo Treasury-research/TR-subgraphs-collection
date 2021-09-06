@@ -16,7 +16,7 @@ npx graph-compiler \
   --export-schema \
   --export-subgraph
 cd generated
-graph auth ...
+graph auth <ACCESS_TOKEN> // 
 graph deploy --studio  xxx // xxx you create subgraph name
 ```
 
@@ -31,7 +31,7 @@ npx graph-compiler \
   --export-schema \
   --export-subgraph
 cd generated
-graph auth ...
+graph auth --product hosted-service <ACCESS_TOKEN>
 graph deploy --studio  xxx // xxx you create subgraph name
 ```
 
