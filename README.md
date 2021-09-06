@@ -3,12 +3,13 @@
 
 ## To setup and deploy
 
+## Graph Explorer
 
-### mainnet
-
+### 
 ```
 yarn 
 yarn global add @graphprotocol/graph-cli
+yarn run prepare:mainnet // mainnet || polygon
 npx graph-compiler \
   --config subgraphconfig.json \
   --include node_modules/@openzeppelin/subgraphs/src/datasources \
@@ -18,7 +19,24 @@ cd generated
 graph auth ...
 graph deploy --studio  xxx // xxx you create subgraph name
 ```
-### Query examples
+
+## Legacy Explorer
+```
+yarn 
+yarn global add @graphprotocol/graph-cli
+yarn run prepare:mainnet // mainnet || polygon
+npx graph-compiler \
+  --config subgraphconfig.json \
+  --include node_modules/@openzeppelin/subgraphs/src/datasources \
+  --export-schema \
+  --export-subgraph
+cd generated
+graph auth ...
+graph deploy --studio  xxx // xxx you create subgraph name
+```
+
+
+## Query examples
 1. Total supply and biggest token holders
 ```
 {

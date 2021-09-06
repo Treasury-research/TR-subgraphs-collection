@@ -4,6 +4,10 @@
   "main": "index.js",
   "deploy": "graph deploy",
   "license": "MIT",
+  "scripts": {
+    "prepare:mainnet": "cp config/subgraphconfig_mainnet.json subgraphconfig.json",
+    "prepare:polygon": "cp config/subgraphconfig_polygon.json subgraphconfig.json"
+  },
   "dependencies": {
     "@graphprotocol/graph-cli": "0.21.1",
     "@openzeppelin/subgraphs": "^0.1.2"

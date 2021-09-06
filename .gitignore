@@ -5,3 +5,4 @@ src/types/
 yarn-error.log
 subgraph.yaml
 generator
+subgraphconfig.json
