@@ -6,7 +6,8 @@
   "license": "MIT",
   "scripts": {
     "prepare:mainnet": "cp config/subgraphconfig_mainnet.json subgraphconfig.json",
-    "prepare:polygon": "cp config/subgraphconfig_polygon.json subgraphconfig.json"
+    "prepare:polygon": "cp config/subgraphconfig_polygon.json subgraphconfig.json",
+    "prepare:bsc": "cp config/subgraphconfig_bsc.json subgraphconfig.json"
   },
   "dependencies": {
     "@graphprotocol/graph-cli": "0.21.1",

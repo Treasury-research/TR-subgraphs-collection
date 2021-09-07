@@ -9,7 +9,7 @@
 ```
 yarn 
 yarn global add @graphprotocol/graph-cli
-yarn run prepare:mainnet // mainnet || polygon
+yarn run prepare:mainnet // prepare:mainnet || prepare:mainnet
 npx graph-compiler \
   --config subgraphconfig.json \
   --include node_modules/@openzeppelin/subgraphs/src/datasources \
@@ -24,7 +24,7 @@ graph deploy --studio  xxx // xxx you create subgraph name
 ```
 yarn 
 yarn global add @graphprotocol/graph-cli
-yarn run prepare:mainnet // mainnet || polygon
+yarn run prepare:mainnet // prepare:mainnet || prepare:mainnet
 npx graph-compiler \
   --config subgraphconfig.json \
   --include node_modules/@openzeppelin/subgraphs/src/datasources \
