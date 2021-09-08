@@ -32,7 +32,7 @@ npx graph-compiler \
   --export-subgraph
 cd generated
 graph auth --product hosted-service <ACCESS_TOKEN>
-graph deploy --studio  xxx // xxx you create subgraph name
+graph deploy --product hosted-service <GITHUB_USER>/<SUBGRAPH NAME>  
 ```
 
 
@@ -80,7 +80,11 @@ graph deploy --studio  xxx // xxx you create subgraph name
 ```
 
 
+### Deply Host
 
+* [erc20-mainnet](https://api.thegraph.com/subgraphs/name/treasury-research/erc20-distribution-tr-creation)
+* [erc20-polygon](https://api.thegraph.com/subgraphs/name/treasury-research/erc20-polygon-tr-creation)
+* [bep20-bsc](https://api.thegraph.com/subgraphs/name/treasury-research/bep20-bsc-tr-creation)
 
 ## reference
 >[openzeppelin-subgraphs](https://github.com/OpenZeppelin/openzeppelin-subgraphs)
