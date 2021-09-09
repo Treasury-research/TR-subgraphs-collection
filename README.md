@@ -86,6 +86,9 @@ graph deploy --product hosted-service <GITHUB_USER>/<SUBGRAPH NAME>
 * [erc20-polygon](https://api.thegraph.com/subgraphs/name/treasury-research/erc20-polygon-tr-creation)
 * [bep20-bsc](https://api.thegraph.com/subgraphs/name/treasury-research/bep20-bsc-tr-creation)
 * [erc20-fantom](https://api.thegraph.com/subgraphs/name/treasury-research/erc20-fantom-tr-creation)
+* [erc20-arbitrum](https://api.thegraph.com/subgraphs/name/treasury-research/erc20-arbitrum-tr-creation)
+
+
 
 ## reference
 >[openzeppelin-subgraphs](https://github.com/OpenZeppelin/openzeppelin-subgraphs)
