@@ -9,7 +9,8 @@
     "prepare:polygon": "cp config/subgraphconfig_polygon.json subgraphconfig.json",
     "prepare:bsc": "cp config/subgraphconfig_bsc.json subgraphconfig.json",
     "prepare:fantom": "cp config/subgraphconfig_fantom.json subgraphconfig.json",
-    "prepare:arbitrum": "cp config/subgraphconfig_arbitrum.json subgraphconfig.json"
+    "prepare:arbitrum": "cp config/subgraphconfig_arbitrum.json subgraphconfig.json",
+    "prepare:optimism": "cp config/subgraphconfig_optimism.json subgraphconfig.json"
   },
   "dependencies": {
     "@graphprotocol/graph-cli": "0.21.1",

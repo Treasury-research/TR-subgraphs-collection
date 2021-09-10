@@ -1,0 +1,61 @@
+{
+  "output": "generated/",
+  "chain": "optimism",
+  "datasources": [
+    {
+      "address": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
+      "module": ["erc20"],
+      "startBlock": 0
+    },
+    {
+      "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+      "module": ["erc20"],
+      "startBlock": 0
+    },
+    {
+      "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
+      "module": ["erc20"],
+      "startBlock": 0
+    },
+    {
+      "address": "0x68f180fcCe6836688e9084f035309E29Bf0A2095",
+      "module": ["erc20"],
+      "startBlock": 0
+    },
+    {
+      "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+      "module": ["erc20"],
+      "startBlock": 0
+    },
+    {
+      "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+      "module": ["erc20"],
+      "startBlock": 0
+    },
+    {
+      "address": "0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49",
+      "module": ["erc20"],
+      "startBlock": 0
+    },
+    {
+      "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+      "module": ["erc20"],
+      "startBlock": 0
+    },
+    {
+      "address": "0x298B9B95708152ff6968aafd889c6586e9169f1D",
+      "module": ["erc20"],
+      "startBlock": 0
+    },
+    {
+      "address": "0xB548f63D4405466B36C0c0aC3318a22fDcec711a",
+      "module": ["erc20"],
+      "startBlock": 0
+    },
+    {
+      "address": "0xc5Db22719A06418028A40A9B5E9A7c02959D0d08",
+      "module": ["erc20"],
+      "startBlock": 0
+    }
+  ]
+}
